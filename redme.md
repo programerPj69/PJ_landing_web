@@ -14,9 +14,9 @@ This project is a basic landing form designed to collect user input, such as nam
 
 
 simple-landing-form/
-├── index.html       # Main HTML file with the form
-├── style.css        # CSS file for styling the form
-└── script.js        # JavaScript file for basic form validation
+- ├── index.html       # Main HTML file with the form
+- ├── style.css        # CSS file for styling the form
+- └── script.js        # JavaScript file for basic form validation
 Setup
 Clone the repository or download the project files:
 
