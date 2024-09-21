@@ -65,7 +65,7 @@ This project is free to use and modify under the MIT License.
 
 ```bash
 Copy code
-git clone https://github.com/your-username/simple-landing-form.git
+git clone https://github.com/programmerpj/simple-landing-form.git
 
 
 
